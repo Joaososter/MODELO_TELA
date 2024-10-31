@@ -52,6 +52,9 @@ Visual Studio Code (IDE utilizada para o desenvolvimento).
 
 ▶️ Testando projeto:
 
+<img width="591" alt="Print interface java " src="https://github.com/user-attachments/assets/15a4a15e-24c8-4cd7-97fa-dd5e17ce10d3">
+
+
 📌 Versão
 
 Versão 1.0 Implementacao Inicial
